@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658919598792",
+    "project_id": "e-commers-app-demo",
+    "storage_bucket": "e-commers-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658919598792:android:7c55adb9d7c1fda4f953fd",
+        "android_client_info": {
+          "package_name": "com.beejo.bun_wa_hal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658919598792-u74196fq02s4ooma28d0lfl45ekhhito.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmSnXqZz2grHzfLRdoJekoXyDzo8Saos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658919598792-u74196fq02s4ooma28d0lfl45ekhhito.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
