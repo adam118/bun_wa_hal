@@ -25,7 +25,7 @@ class _SplashState extends State<Splash> {
           Duration(
             seconds: 4,
           ), () {
-        Navigator.push(
+        Navigator.pushReplacement(
             context,
             MaterialPageRoute(
                 builder: (context) => phone == null ? chose() : MyApp()));
